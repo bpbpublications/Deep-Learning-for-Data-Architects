@@ -1,2 +1,2 @@
-# Deep Neural Network for Data Architects
- Deep Neural Network for Data Architects, by BPB Publications
+# Deep Learning for Data Architects
+ Deep Learning for Data Architects, by BPB Publications
